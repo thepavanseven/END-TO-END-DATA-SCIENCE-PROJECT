@@ -12,6 +12,13 @@
 
 *MENTOR*: NEELA SANTOSH
 
+# End-to-End Data Science Project
+
+[![Deploy on Render](https://img.shields.io/badge/Live%20Demo-Online-brightgreen)](https://end-to-end-data-science-project-6.onrender.com)
+
+**Live App:**  
+👉 [https://end-to-end-data-science-project-6.onrender.com](https://end-to-end-data-science-project-6.onrender.com)
+
 ## Overview
 This project demonstrates a complete, end-to-end data science workflow, culminating in the deployment of a machine learning model as a web application. The primary objective is to predict the likelihood of diabetes in a patient based on various health metrics. The solution leverages Python’s data science ecosystem and the Flask web framework to create an interactive, user-friendly web app, making machine learning predictions accessible to both technical and non-technical users.
 
