@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; }
+        .result { margin-top: 30px; padding: 20px; background: #f0f0f0; border-radius: 8px; }
+        .good { color: #388e3c; }
+        .bad { color: #d32f2f; }
+    </style>
+</head>
+<body>
+    <h1>Prediction Result</h1>
+    <div class="result">
+        <h2 class="{{ 'bad' if result == 'Diabetic' else 'good' }}">{{ result }}</h2>
+        <p><strong>Probability:</strong> {{ probability }}</p>
+        <p><strong>Confidence Level:</strong> {{ confidence }}</p>
+        <a href="/">Try another prediction</a>
+    </div>
+</body>
+</html>
