@@ -89,4 +89,8 @@ Serving as a foundation for more advanced diagnostic tools, potentially integrat
 Conclusion
 This project showcases a full-stack data science solution, starting from raw data and ending with a deployed, interactive web application. It highlights the importance of data preprocessing, model evaluation, and user interface design in creating impactful machine learning applications. The modular structure ensures that the project can be extended or adapted for other medical prediction tasks or datasets.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/36555449-b97f-448e-a74b-aaf168cda0d4)
+
 
