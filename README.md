@@ -91,6 +91,8 @@ This project showcases a full-stack data science solution, starting from raw dat
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/6e3a8a02-7521-4f96-9837-0e1e40c28c21)
+
 ![Image](https://github.com/user-attachments/assets/36555449-b97f-448e-a74b-aaf168cda0d4)
 
 
